@@ -20,7 +20,6 @@ public class Th_korona_szwedzka extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_korona_szwedzka);
         setContentView(R.layout.activity_th_euro);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
 

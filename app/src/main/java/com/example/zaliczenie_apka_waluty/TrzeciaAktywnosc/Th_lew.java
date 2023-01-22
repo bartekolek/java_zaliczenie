@@ -19,7 +19,6 @@ public class Th_lew extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_lew);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
 

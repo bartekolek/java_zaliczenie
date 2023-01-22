@@ -19,9 +19,7 @@ public class Th_lej extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_lej);
-
         setContentView(R.layout.activity_th_euro);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
 

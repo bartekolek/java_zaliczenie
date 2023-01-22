@@ -21,9 +21,7 @@ public class Th_korona_czeska extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_korona_czeska);
-
         setContentView(R.layout.activity_th_euro);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
 

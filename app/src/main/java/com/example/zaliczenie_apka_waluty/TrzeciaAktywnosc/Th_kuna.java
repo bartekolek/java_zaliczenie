@@ -19,9 +19,7 @@ public class Th_kuna extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_kuna);
-
         setContentView(R.layout.activity_th_euro);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
 

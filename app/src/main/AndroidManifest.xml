@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zaliczenie_apka_waluty" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Zaliczenie_apka_waluty" >
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_pln"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_pln"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_kuna"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_froint"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_korona_szwedzka"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_korona_dunska"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_korona_czeska"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_lej"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_lew"
+            android:exported="false" />
+        <activity
+            android:name=".TrzeciaAktywnosc.Th_euro"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_froint"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_korona_szwedzka"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_lej"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_korona_dunska"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_kuna"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_lew"
+            android:exported="false" />
+        <activity
+            android:name=".DrugaAktywnosc.Second_euro"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

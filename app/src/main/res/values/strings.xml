@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aplikacja do przeliczania waluty</string>
+
+    <string name="napis_wyboru">Wybierz obecną walutę</string>
+    <string name="eur">EUR</string>
+    <string name="lew">BGN</string>
+    <string name="kuna">HRK</string>
+    <string name="korona_czeska">CZK</string>
+    <string name="korona_duńska">DKK</string>
+    <string name="lej">RON</string>
+    <string name="korona_szwedzka">SEK</string>
+    <string name="froint">HUF</string>
+    <string name="pln">PLN</string>
+
+    <string name="napis_wyboru_dwa">Podaj wartość:</string>
+    <string name="eur_dwa">EUR</string>
+    <string name="lew_dwa">BGN</string>
+    <string name="kuna_dwa">HRK</string>
+    <string name="korona_czeska_dwa">CZK</string>
+    <string name="korona_duńska_dwa">DKK</string>
+    <string name="lej_dwa">RON</string>
+    <string name="korowna_szwedzka_dwa">SEK</string>
+    <string name="froint_dwa">HUF</string>
+    <string name="pln_dwa">PLN</string>
+
+    <string name="cofanie">Cofnij</string>
+    <string name="lang">pl</string>
+
+
+</resources>

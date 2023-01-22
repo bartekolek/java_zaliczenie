@@ -30,7 +30,6 @@ public class Second_froint extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second_froint);
-
         btn_euro = findViewById(R.id.btn_euro_dwa);
         btn_lew = findViewById(R.id.btn_lew_dwa);
         btn_lej = findViewById(R.id.btn_lej_dwa);

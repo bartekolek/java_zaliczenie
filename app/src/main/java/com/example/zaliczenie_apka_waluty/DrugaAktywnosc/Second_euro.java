@@ -57,7 +57,6 @@ public class Second_euro extends AppCompatActivity {
 
             }
         });
-
         btn_lew.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

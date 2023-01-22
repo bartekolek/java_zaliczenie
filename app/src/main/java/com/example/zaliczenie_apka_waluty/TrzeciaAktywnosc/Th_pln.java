@@ -24,10 +24,6 @@ public class Th_pln extends AppCompatActivity {
         cofanie = findViewById(R.id.btn_cofanie);
 
 
-
-
-
-
         Intent intent = getIntent();
         String wynik = intent.getStringExtra("wynik");
         String waluta = intent.getStringExtra("waluta");

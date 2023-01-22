@@ -19,10 +19,8 @@ public class Th_korona_dunska extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_th_korona_dunska);
-
         TextView nazwa = findViewById(R.id.textViewNapisKoncowy);
         Button cofanie;
-
 
         Intent intent = getIntent();
         String wynik = intent.getStringExtra("wynik");
